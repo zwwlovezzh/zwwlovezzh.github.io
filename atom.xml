@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zwwlovezzh.github.io/</id>
     <title>嘎嘣的学习小站</title>
-    <updated>2021-03-13T10:25:16.642Z</updated>
+    <updated>2021-03-14T05:41:40.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zwwlovezzh.github.io/"/>
     <link rel="self" href="https://zwwlovezzh.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://zwwlovezzh.github.io/post/java-xue-xi-ri-ji-01-ji-chu-zhi-shi/">
         </link>
         <updated>2021-03-13T08:27:22.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="常用的的dos命令">常用的的Dos命令</h2>
+        <content type="html"><![CDATA[<h3 id="常用的的dos命令">常用的的Dos命令</h3>
 <ul>
 <li>盘符切换      <code>D:</code></li>
 <li>查看当前目录下的所有文件      <code>dir</code></li>
@@ -25,6 +25,26 @@
 <li>退出终端      <code>exit</code></li>
 <li>查看电脑的ip      <code>ipconfig</code></li>
 <li>打开应用      <code>calc, notepad</code></li>
+</ul>
+<h3 id="变量">变量</h3>
+<ul>
+<li>
+<p>变量是什么：可以变化的量!</p>
+</li>
+<li>
+<p>Java是一种强类型的语言，每个变量都必须声明其类型。</p>
+</li>
+<li>
+<p>Java变量是程序中最基本的存储单元，其要素包括变量名，变量类型和作用域。</p>
+</li>
+<li>
+<p>注意事项：</p>
+<ul>
+<li>每个变量都有类型，类型可以是基本类型，也可以是引用类型</li>
+<li>变量名必须是和合法的标识符</li>
+<li>变量声明是一条完整的语句，因此每一个声明都必须以分号结束</li>
+</ul>
+</li>
 </ul>
 ]]></content>
     </entry>
